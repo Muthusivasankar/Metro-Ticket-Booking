@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+  <sys_report action="INSERT_OR_UPDATE">
+    <sys_id>e334b0e66ad048e2a615a0dfee1949ae</sys_id>
+    <sys_scope display_value="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_scope>
+    <sys_update_name>sys_report_e334b0e66ad048e2a615a0dfee1949ae</sys_update_name>
+    <active>true</active>
+    <aggregate>COUNT</aggregate>
+    <name>QR Ticket Statistics</name>
+    <table>x_1877508_metro_0_metro_qr_ticket</table>
+    <title>QR Ticket Statistics</title>
+    <type>single_score</type>
+  </sys_report>
+</record_update>

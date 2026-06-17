@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+  <sys_report action="INSERT_OR_UPDATE">
+    <sys_id>5f268f7a3ec34a1093498de0c707ca8a</sys_id>
+    <sys_scope display_value="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_scope>
+    <sys_update_name>sys_report_5f268f7a3ec34a1093498de0c707ca8a</sys_update_name>
+    <active>true</active>
+    <aggregate>COUNT</aggregate>
+    <field>pass_status</field>
+    <name>Student Pass Status</name>
+    <table>x_1877508_metro_0_metro_student_pass</table>
+    <title>Student Pass Status</title>
+    <type>bar</type>
+  </sys_report>
+</record_update>

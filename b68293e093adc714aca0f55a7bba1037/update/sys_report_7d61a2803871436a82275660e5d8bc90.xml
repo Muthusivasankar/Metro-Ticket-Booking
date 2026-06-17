@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+  <sys_report action="INSERT_OR_UPDATE">
+    <sys_id>7d61a2803871436a82275660e5d8bc90</sys_id>
+    <sys_scope display_value="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_scope>
+    <sys_update_name>sys_report_7d61a2803871436a82275660e5d8bc90</sys_update_name>
+    <active>true</active>
+    <aggregate>COUNT</aggregate>
+    <field>booking_status</field>
+    <name>Booking Status Distribution</name>
+    <table>x_1877508_metro_0_metro_booking</table>
+    <title>Booking Status Distribution</title>
+    <type>pie</type>
+  </sys_report>
+</record_update>

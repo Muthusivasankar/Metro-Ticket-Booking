@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+  <sys_report action="INSERT_OR_UPDATE">
+    <sys_id>211573d571414546a2c6aadaa4ee84fa</sys_id>
+    <sys_scope display_value="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_scope>
+    <sys_update_name>sys_report_211573d571414546a2c6aadaa4ee84fa</sys_update_name>
+    <active>true</active>
+    <aggregate>COUNT</aggregate>
+    <name>Metro Payment Count</name>
+    <table>x_1877508_metro_0_metro_payment</table>
+    <title>Metro Payment Count</title>
+    <type>single_score</type>
+  </sys_report>
+</record_update>

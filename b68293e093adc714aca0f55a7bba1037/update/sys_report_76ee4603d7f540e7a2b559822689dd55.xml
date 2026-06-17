@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+  <sys_report action="INSERT_OR_UPDATE">
+    <sys_id>76ee4603d7f540e7a2b559822689dd55</sys_id>
+    <sys_scope display_value="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_scope>
+    <sys_update_name>sys_report_76ee4603d7f540e7a2b559822689dd55</sys_update_name>
+    <active>true</active>
+    <aggregate>COUNT</aggregate>
+    <field>transaction_status</field>
+    <name>Payment Status Distribution</name>
+    <table>x_1877508_metro_0_metro_payment</table>
+    <title>Payment Status Distribution</title>
+    <type>donut</type>
+  </sys_report>
+</record_update>
