@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="c02e2bd14e218f144a9bd84bc1110bdc" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1877508_metro_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-17 17:19:25</sys_created_on>
+            <sys_id>c82e2bd17e218f14a8a14198b99c07dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c42e2bd15f218f14c178d89c990abfdc">c02e2bd14e218f144a9bd84bc1110bdc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-17 17:19:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-17 17:19:25</sys_created_on>
+            <sys_id>cc2e2bd14f218f1461ac900eb02654dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c42e2bd15f218f14c178d89c990abfdc">c02e2bd14e218f144a9bd84bc1110bdc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-17 17:19:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-17 17:19:25</sys_created_on>
+            <sys_id>482e2bd154218f14cdcfce4f39785cda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c42e2bd15f218f14c178d89c990abfdc">c02e2bd14e218f144a9bd84bc1110bdc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-17 17:19:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-17 17:19:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c02e2bd14e218f144a9bd84bc1110bdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+            <sys_update_name>sys_ui_section_c02e2bd14e218f144a9bd84bc1110bdc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-17 17:19:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_1877508_metro_0)" name="custom_portal_settings_x_1877508_metro_0">c42e2bd15f218f14c178d89c990abfdc</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</application>
+        <file_path/>
+        <instance_id>e4764908ebec6254cbbffceacad0cd68</instance_id>
+        <instance_name>dev306749</instance_name>
+        <name>sys_ui_section_c02e2bd14e218f144a9bd84bc1110bdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="c02e2bd14e218f144a9bd84bc1110bdc" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1877508_metro_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:25</sys_created_on><sys_id>c82e2bd17e218f14a8a14198b99c07dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c42e2bd15f218f14c178d89c990abfdc">c02e2bd14e218f144a9bd84bc1110bdc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:25</sys_created_on><sys_id>cc2e2bd14f218f1461ac900eb02654dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c42e2bd15f218f14c178d89c990abfdc">c02e2bd14e218f144a9bd84bc1110bdc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:25</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:25</sys_created_on><sys_id>482e2bd154218f14cdcfce4f39785cda</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c42e2bd15f218f14c178d89c990abfdc">c02e2bd14e218f144a9bd84bc1110bdc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c02e2bd14e218f144a9bd84bc1110bdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope><sys_update_name>sys_ui_section_c02e2bd14e218f144a9bd84bc1110bdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:25</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_1877508_metro_0)" name="custom_portal_settings_x_1877508_metro_0">c42e2bd15f218f14c178d89c990abfdc</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2012340647</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source>2728582393300310aca0f55a7bba102b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-05-17 18:43:46</sys_created_on>
+        <sys_id>eb95fb5593618f14aca0f55a7bba10e1</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19e37405ed00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>ab95fb55d9618f141e50b9b2c0843ee1</update_guid>
+        <update_guid_history>ab95fb55d9618f141e50b9b2c0843ee1:2012340647</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:52:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1244835e2f73439c8225c5c73def9a84</sys_id>
+        <sys_metadata>c02e2bd14e218f144a9bd84bc1110bdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_parent display_value="Sys User">6fa3d820f50003100a22c0b3dfa151d1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_scope_delete display_value="">0ffd5e2fd6884e6c811f6cf525e526a1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c02e2bd14e218f144a9bd84bc1110bdc</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c02e2bd14e218f144a9bd84bc1110bdc">eb95fb5593618f14aca0f55a7bba10e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:52:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

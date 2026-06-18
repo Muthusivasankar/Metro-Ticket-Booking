@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 17:51:32</sys_created_on>
+        <sys_id>5d526df893ed0b14aca0f55a7bba10de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877508_metro_0_metro_routes.x_1877508_metro_0.MetronTicket Student</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_security_acl display_value="x_1877508_metro_0_metro_routes">0d526df893ed0b14aca0f55a7bba10d5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5d526df893ed0b14aca0f55a7bba10de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 17:51:32</sys_updated_on>
+        <sys_user_role display_value="x_1877508_metro_0.MetronTicket Student" name="x_1877508_metro_0.MetronTicket Student">f8526df893ed0b14aca0f55a7bba1016</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</application>
+        <file_path/>
+        <instance_id>e4764908ebec6254cbbffceacad0cd68</instance_id>
+        <instance_name>dev306749</instance_name>
+        <name>sys_security_acl_role_5d526df893ed0b14aca0f55a7bba10de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 17:51:32</sys_created_on><sys_id>5d526df893ed0b14aca0f55a7bba10de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1877508_metro_0_metro_routes.x_1877508_metro_0.MetronTicket Student</sys_name><sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope><sys_security_acl display_value="x_1877508_metro_0_metro_routes">0d526df893ed0b14aca0f55a7bba10d5</sys_security_acl><sys_update_name>sys_security_acl_role_5d526df893ed0b14aca0f55a7bba10de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 17:51:32</sys_updated_on><sys_user_role display_value="x_1877508_metro_0.MetronTicket Student" name="x_1877508_metro_0.MetronTicket Student">f8526df893ed0b14aca0f55a7bba1016</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1671451749</payload_hash>
+        <record_name>x_1877508_metro_0_metro_routes.x_1877508_metro_0.MetronTicket Student</record_name>
+        <reverted_from/>
+        <source>768293e093adc714aca0f55a7bba103b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 17:51:32</sys_created_on>
+        <sys_id>9552adf893ed0b14aca0f55a7bba1026</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ecc68fa1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 17:51:32</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5552adf84aed0b1435c7f17f6ea79b25</update_guid>
+        <update_guid_history>5552adf84aed0b1435c7f17f6ea79b25:-1671451749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1877508_metro_0_metro_routes.x_1877508_metro_0.MetronTicket Student">0e8e38d593a90f14aca0f55a7bba1097</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:32:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>33591ce8a98b4af98c99640b7dcef2c9</sys_id>
+        <sys_metadata>5d526df893ed0b14aca0f55a7bba10de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877508_metro_0_metro_routes.x_1877508_metro_0.MetronTicket Student</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_scope_delete display_value="">0ffd5e2fd6884e6c811f6cf525e526a1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5d526df893ed0b14aca0f55a7bba10de</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5d526df893ed0b14aca0f55a7bba10de">9552adf893ed0b14aca0f55a7bba1026</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:32:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

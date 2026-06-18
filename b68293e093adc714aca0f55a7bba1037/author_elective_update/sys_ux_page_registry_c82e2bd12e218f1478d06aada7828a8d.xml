@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>cc2e2bd153218f14d8d6105f5ab2dc8d</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app>
+        <path>metro-ticket-booking-portal</path>
+        <root_macroponent display_value="Portal App Shell (Deprecated)">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:19:24</sys_created_on>
+        <sys_id>c82e2bd12e218f1478d06aada7828a8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Metro Ticket Booking Portal</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_update_name>sys_ux_page_registry_c82e2bd12e218f1478d06aada7828a8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:19:24</sys_updated_on>
+        <title>Metro Ticket Booking Portal</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</application>
+        <file_path/>
+        <instance_id>e4764908ebec6254cbbffceacad0cd68</instance_id>
+        <instance_name>dev306749</instance_name>
+        <name>sys_ux_page_registry_c82e2bd12e218f1478d06aada7828a8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>cc2e2bd153218f14d8d6105f5ab2dc8d</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app><path>metro-ticket-booking-portal</path><root_macroponent display_value="Portal App Shell (Deprecated)">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:24</sys_created_on><sys_id>c82e2bd12e218f1478d06aada7828a8d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Metro Ticket Booking Portal</sys_name><sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope><sys_update_name>sys_ux_page_registry_c82e2bd12e218f1478d06aada7828a8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:24</sys_updated_on><title>Metro Ticket Booking Portal</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1942824197</payload_hash>
+        <record_name>Metro Ticket Booking Portal</record_name>
+        <reverted_from/>
+        <source>2728582393300310aca0f55a7bba102b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-05-17 18:43:46</sys_created_on>
+        <sys_id>b594bf9193618f14aca0f55a7bba1066</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19e37405ed00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>7594bf914a618f14c4cb879b41184d66</update_guid>
+        <update_guid_history>7594bf914a618f14c4cb879b41184d66:-1942824197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:47:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>65a0ecdb1c5d4dd9b8148791195b0d29</sys_id>
+        <sys_metadata>c82e2bd12e218f1478d06aada7828a8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Metro Ticket Booking Portal</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_scope_delete display_value="">0ffd5e2fd6884e6c811f6cf525e526a1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_c82e2bd12e218f1478d06aada7828a8d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_c82e2bd12e218f1478d06aada7828a8d">b594bf9193618f14aca0f55a7bba1066</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:47:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

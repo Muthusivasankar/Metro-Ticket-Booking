@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1877508_metro_0_metro_stations</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 17:51:44</sys_created_on>
+        <sys_id>cc62613c93ed0b14aca0f55a7bba1035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877508_metro_0_metro_stations</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_update_name>sys_security_acl_cc62613c93ed0b14aca0f55a7bba1035</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 17:51:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</application>
+        <file_path/>
+        <instance_id>e4764908ebec6254cbbffceacad0cd68</instance_id>
+        <instance_name>dev306749</instance_name>
+        <name>sys_security_acl_cc62613c93ed0b14aca0f55a7bba1035</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1877508_metro_0_metro_stations</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 17:51:44</sys_created_on><sys_id>cc62613c93ed0b14aca0f55a7bba1035</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1877508_metro_0_metro_stations</sys_name><sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope><sys_update_name>sys_security_acl_cc62613c93ed0b14aca0f55a7bba1035</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 17:51:44</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-409847184</payload_hash>
+        <record_name>x_1877508_metro_0_metro_stations</record_name>
+        <reverted_from/>
+        <source>768293e093adc714aca0f55a7bba103b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 17:51:44</sys_created_on>
+        <sys_id>0c62613c93ed0b14aca0f55a7bba1047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ecc6928b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 17:51:44</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>c862613cb5ed0b14d0526518e5e36b46</update_guid>
+        <update_guid_history>c862613cb5ed0b14d0526518e5e36b46:-409847184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:32:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>39862957c915448ca1d0bf7a26baa8e4</sys_id>
+        <sys_metadata>cc62613c93ed0b14aca0f55a7bba1035</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1877508_metro_0_metro_stations</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_parent display_value="x_1877508_metro_0_metro_stations">19c9917893ad0b14aca0f55a7bba1010</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_scope_delete display_value="">0ffd5e2fd6884e6c811f6cf525e526a1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_cc62613c93ed0b14aca0f55a7bba1035</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_cc62613c93ed0b14aca0f55a7bba1035">0c62613c93ed0b14aca0f55a7bba1047</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:32:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
