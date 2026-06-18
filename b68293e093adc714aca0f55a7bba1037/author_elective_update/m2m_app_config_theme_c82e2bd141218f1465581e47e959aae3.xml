@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">c42e2bd1b7218f14465683469ba98be3</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:19:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c82e2bd141218f1465581e47e959aae3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_update_name>m2m_app_config_theme_c82e2bd141218f1465581e47e959aae3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:19:19</sys_updated_on>
+        <theme display_value="Light Theme">c02e2bd1c7218f14f1e7ff3ffa1d32e4</theme>
+        <ux_app_configuration display_value="">cc2e2bd153218f14d8d6105f5ab2dc8d</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</application>
+        <file_path/>
+        <instance_id>e4764908ebec6254cbbffceacad0cd68</instance_id>
+        <instance_name>dev306749</instance_name>
+        <name>m2m_app_config_theme_c82e2bd141218f1465581e47e959aae3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">c42e2bd1b7218f14465683469ba98be3</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c82e2bd141218f1465581e47e959aae3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope><sys_update_name>m2m_app_config_theme_c82e2bd141218f1465581e47e959aae3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:19</sys_updated_on><theme display_value="Light Theme">c02e2bd1c7218f14f1e7ff3ffa1d32e4</theme><ux_app_configuration display_value="">cc2e2bd153218f14d8d6105f5ab2dc8d</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1973416236</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2728582393300310aca0f55a7bba102b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-05-17 18:43:46</sys_created_on>
+        <sys_id>2a94ff9193618f14aca0f55a7bba10d4</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19e37405ed00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>e694ff9156618f1480d4aa62327f47d4</update_guid>
+        <update_guid_history>e694ff9156618f1480d4aa62327f47d4:-1973416236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6e94ff9193618f14aca0f55a7bba10d5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:47:33</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>02d3a1960ec747bd803db6412b545eb1</sys_id>
+        <sys_metadata>c82e2bd141218f1465581e47e959aae3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_scope_delete display_value="">0ffd5e2fd6884e6c811f6cf525e526a1</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_c82e2bd141218f1465581e47e959aae3</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_c82e2bd141218f1465581e47e959aae3">2a94ff9193618f14aca0f55a7bba10d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:47:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

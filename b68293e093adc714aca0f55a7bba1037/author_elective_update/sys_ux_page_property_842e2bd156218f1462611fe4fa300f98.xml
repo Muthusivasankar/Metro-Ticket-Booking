@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">c82e2bd12e218f1478d06aada7828a8d</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">482e2bd1b9218f14b4ff705b87975bcf</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:19:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>842e2bd156218f1462611fe4fa300f98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_update_name>sys_ux_page_property_842e2bd156218f1462611fe4fa300f98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:19:24</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1877508_metro_0.c82e2bd12e218f1478d06aada7828a8d.route.chrome_header.482e2bd1b9218f14b4ff705b87975bcf</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</application>
+        <file_path/>
+        <instance_id>e4764908ebec6254cbbffceacad0cd68</instance_id>
+        <instance_name>dev306749</instance_name>
+        <name>sys_ux_page_property_842e2bd156218f1462611fe4fa300f98</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">c82e2bd12e218f1478d06aada7828a8d</page><required_translations>[]</required_translations><route display_value="Search Page">482e2bd1b9218f14b4ff705b87975bcf</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 17:19:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>842e2bd156218f1462611fe4fa300f98</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope><sys_update_name>sys_ux_page_property_842e2bd156218f1462611fe4fa300f98</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 17:19:24</sys_updated_on><type>json</type><unique_name>x_1877508_metro_0.c82e2bd12e218f1478d06aada7828a8d.route.chrome_header.482e2bd1b9218f14b4ff705b87975bcf</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-334858866</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>2728582393300310aca0f55a7bba102b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-05-17 18:43:46</sys_created_on>
+        <sys_id>ca94bf9193618f14aca0f55a7bba10c3</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19e37405ed00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>8a94bf91aa618f147d951abe9c87d4c3</update_guid>
+        <update_guid_history>8a94bf91aa618f147d951abe9c87d4c3:-334858866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 17:47:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>375a9ec58cd048aaaec2ccb0a020a769</sys_id>
+        <sys_metadata>842e2bd156218f1462611fe4fa300f98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Metro Ticket Booking" source="x_1877508_metro_0">b68293e093adc714aca0f55a7bba1037</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Booking">b68293e093adc714aca0f55a7bba1037</sys_scope>
+        <sys_scope_delete display_value="">0ffd5e2fd6884e6c811f6cf525e526a1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_842e2bd156218f1462611fe4fa300f98</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_842e2bd156218f1462611fe4fa300f98">ca94bf9193618f14aca0f55a7bba10c3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 17:47:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
